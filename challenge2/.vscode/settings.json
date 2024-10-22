@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "B00162651_Interactive-Multimedia.sln"
+    "dotnet.defaultSolution": "challenge2.sln"
 }
